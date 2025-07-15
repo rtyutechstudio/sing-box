@@ -1,6 +1,8 @@
 # 介绍
 
 最好用的 sing-box 一键安装脚本 & 管理脚本
+usage:
+bash <(wget -qO- -o- https://github.com/rtyutechstudio/sing-box/raw/main/install.sh)
 
 # 特点
 
